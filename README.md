@@ -1,6 +1,7 @@
 # 🌊 ACM - Aquatic Community Method Platform
 
 **Status:** 🏗️ *Architecture & Design Phase*
+
 **Client:** "Mayim Shavim" (Non-Profit Organization)
 
 ## 📖 About The Project
